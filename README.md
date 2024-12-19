@@ -13,7 +13,7 @@ Make your GitHub history back to 2008.
 Run the following script
 
 ```bash
-$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ignasxv/2008-script/refs/heads/master/index.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ignasxv/2008-script/refs/heads/master/index.sh)"
 ```
 
 Enter you GitHub username and access token and then you are done :)
